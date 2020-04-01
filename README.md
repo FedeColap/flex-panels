@@ -4,4 +4,4 @@ Great Idea!
 Link:
 #### [30 days vanilla JS coding challenge](https://javascript30.com/)
 
-Live page: 
+[Live page:](https://fedecolap.github.io/flex-panels/) 
